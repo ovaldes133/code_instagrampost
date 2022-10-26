@@ -1,0 +1,93 @@
+body{
+    background: rgb(0, 0, 0);
+    margin:0;
+}
+div.post{
+    width: 500px;
+   margin : auto;
+   background: rgb(255, 255, 255);
+ 
+   
+ }
+
+ div.post-header{
+    background: rgb(255, 255, 255);
+   padding: 10px;
+    margin-bottom: -23px;
+    margin-top: 13px;
+   
+
+ }
+ img{
+    width: 100%;
+    margin-top: 10px;
+ }
+
+ div.logohtml5{
+    display: inline-block;
+    background:rgb(255, 255, 255);
+    width: 5%;
+    font-size: 34px;
+    padding: 0px;
+    text-align: left;
+ }
+ div.html5{
+    display: inline-block;
+    text-align: left;
+    width: 15%;
+    background: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 0px;
+    
+   
+   
+ }
+
+ div.puntos{
+    display: inline-block;
+    text-align: right;
+    padding: 1px;
+    width: 77%;
+    background: rgb(254, 253, 254);
+    font-size: 22px;
+    margin-right: 1px;
+    margin-top: 10px;
+ }
+
+ h2{
+    padding-left: 0px;
+    color:rgb(9, 9, 9) ;
+    font-size: 15px;
+ }
+
+.info{
+    background: white;
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
+
+p{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    
+}
+
+.iconos{
+    display: inline-block;
+    background: rgb(254, 254, 251);
+    width: 85%;
+    height: 20px;
+    font-size: 22px;
+    padding: 5px;
+}
+.orilla{
+    display: inline-block;
+    width: 10%;
+    text-align: right;
+    background: rgb(255, 255, 255);
+    align-content: right;
+    height:20px ;
+    font-size: 22px;
+}
+
+
